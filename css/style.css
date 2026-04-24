@@ -577,3 +577,16 @@ footer { ... }
 .logo span {
     color: #007bff !important;
 }
+/* --- EMERGENCY LOGO FIX --- */
+.logo {
+    color: #ffffff !important; 
+    display: inline-block !important;
+    font-family: sans-serif !important;
+    text-transform: uppercase !important;
+    opacity: 1 !important;
+    visibility: visible !important;
+}
+
+.logo span {
+    color: #007bff !important; /* This is the blue color */
+}
