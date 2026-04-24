@@ -27,15 +27,14 @@
 }
 
 .logo {
+    color: #ffffff; /* Change this to #ffffff to make "TECH" white */
     font-size: 24px;
-    font-weight: 800;
-    color: var(--dark-color);
+    font-weight: bold;
 }
 
 .logo span {
-    color: var(--primary-color);
+    color: #2196f3; /* This keeps "VISION" blue */
 }
-
 .nav-links {
     display: flex;
     list-style: none;
