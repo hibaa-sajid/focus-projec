@@ -566,3 +566,14 @@ footer { ... }
     text-decoration: none;
     font-weight: bold;
 }
+/* Force the TECH text to be white */
+.logo {
+    color: #ffffff !important; 
+    display: inline-block !important;
+    visibility: visible !important;
+}
+
+/* Force the VISION text to be blue */
+.logo span {
+    color: #007bff !important;
+}
