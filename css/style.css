@@ -541,3 +541,8 @@ footer { ... }
         padding: 30px;
     }
 }
+/* --- FOOTER SECTION --- */
+.main-footer {
+    background-color: #333;
+    /* ... the rest of your code ... */
+}
